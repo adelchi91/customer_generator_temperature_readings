@@ -1,5 +1,15 @@
 # Customer Lead Generator
 
+## Code and data
+code can be found in `./notebooks/Exploration_new.ipynb`
+
+Produced figures, models and numerical results are in:
+* `./notebooks/figures`
+* `./notebooks/models`
+* `./notebooks/results`
+* `./data/`
+
+## Solution explanation
 The columns `b_in_kontakt_gewesen`, `b_gekauft_gesamt` help us to identify the
 training data and the labels.
 
